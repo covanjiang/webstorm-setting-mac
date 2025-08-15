@@ -9,7 +9,5 @@
     </languageAllowList>
     <option name="enableScreenReader" value="true" />
     <option name="selectedCompletionModel" value="gpt-4o-copilot" />
-    <option name="toolConfirmAutoApprove" value="true" />
-    <option name="maxToolCallingLoop" value="100" />
   </component>
 </application>
