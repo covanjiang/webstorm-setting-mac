@@ -1,9 +1,10 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1754814277968" />
+    <option name="lastTrimTime" value="1755272681460" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Rejection" />
       <item value="Explicitly declare binary file types to prevent Git from attempting to normalize their line endings." />
       <item value="Explicitly declare files that must have LF line endings for proper execution on Unix-like systems." />
       <item value="This will ensure that all text files are normalized to use LF (line feed) line endings in the repository, which helps prevent cross-platform issues." />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE_SIMPLIFIED" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE_SIMPLIFIED" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
