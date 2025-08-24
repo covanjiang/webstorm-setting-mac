@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="ff9800" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -183,16 +183,45 @@
         </option>
       </MTFavoriteThemesConfigState>
     </option>
+    <option name="islandsState">
+      <MTIslandsConfigState>
+        <option name="enabled" value="true" />
+      </MTIslandsConfigState>
+    </option>
     <option name="metadata">
       <MTMetadataState>
+        <option name="pristineConfig" value="false" />
         <option name="userId" value="921ce43:19077f15b47:-7fd3" />
         <option name="version" value="10.2.0" />
+        <option name="wizardShown" value="true" />
       </MTMetadataState>
+    </option>
+    <option name="otherTweaksState">
+      <MTOtherTweaksConfigState>
+        <option name="showWhatsNew" value="false" />
+        <option name="showWizardOnWelcome" value="false" />
+      </MTOtherTweaksConfigState>
+    </option>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="activeBoldTab" value="true" />
+        <option name="highlightColorEnabled" value="true" />
+        <option name="highlightColorHex" value="1ec0e9" />
+        <option name="highlightThickness" value="1" />
+        <option name="roundedTabs" value="true" />
+      </MTTabsConfigState>
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="DARKER" />
       </MTThemeConfigState>
+    </option>
+    <option name="uiComponentsState">
+      <MTUiComponentsConfigState>
+        <option name="actionButtonRadius" value="30" />
+        <option name="borderless" value="true" />
+        <option name="buttonRadius" value="4" />
+      </MTUiComponentsConfigState>
     </option>
   </component>
 </application>
