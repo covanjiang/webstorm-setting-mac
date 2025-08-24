@@ -183,11 +183,6 @@
         </option>
       </MTFavoriteThemesConfigState>
     </option>
-    <option name="islandsState">
-      <MTIslandsConfigState>
-        <option name="enabled" value="true" />
-      </MTIslandsConfigState>
-    </option>
     <option name="metadata">
       <MTMetadataState>
         <option name="pristineConfig" value="false" />
@@ -202,13 +197,18 @@
         <option name="showWizardOnWelcome" value="false" />
       </MTOtherTweaksConfigState>
     </option>
+    <option name="projectTreeState">
+      <MTProjectTreeConfigState>
+        <option name="useColoredDirectories" value="true" />
+      </MTProjectTreeConfigState>
+    </option>
     <option name="tabsState">
       <MTTabsConfigState>
-        <option name="activeBoldTab" value="true" />
+        <option name="animatedTabs" value="false" />
         <option name="highlightColorEnabled" value="true" />
         <option name="highlightColorHex" value="1ec0e9" />
-        <option name="highlightThickness" value="1" />
-        <option name="roundedTabs" value="true" />
+        <option name="tabsHeight" value="28" />
+        <option name="tabsShadow" value="false" />
       </MTTabsConfigState>
     </option>
     <option name="themeState">
