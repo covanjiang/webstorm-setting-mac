@@ -5,6 +5,13 @@
         <option name="accentColorHex" value="ff9800" />
       </MTAccentConfigState>
     </option>
+    <option name="contrastState">
+      <MTContrastConfigState>
+        <option name="contrastMode" value="true" />
+        <option name="highContrast" value="true" />
+        <option name="highContrastValue" value="4" />
+      </MTContrastConfigState>
+    </option>
     <option name="favoriteThemesState">
       <MTFavoriteThemesConfigState>
         <option name="favoriteThemes">
