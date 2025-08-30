@@ -18,7 +18,13 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CodeStyleStatusBarWidget" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="Translation.Widget" value="false" />
+        <entry key="git" value="true" />
+        <entry key="mtAccentBarFactory" value="false" />
+        <entry key="mtThemeFactory" value="false" />
       </map>
     </option>
   </component>
