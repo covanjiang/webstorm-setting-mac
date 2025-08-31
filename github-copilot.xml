@@ -10,6 +10,7 @@
     </languageAllowList>
     <option name="enableScreenReader" value="true" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
+    <option name="toolConfirmAutoApprove" value="true" />
     <terminalAutoApprove>
       <map>
         <entry key="/^Remove-Item\b/i" value="false" />
