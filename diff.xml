@@ -5,8 +5,8 @@
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
             <list>
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
@@ -30,6 +30,11 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesTreeDiffPreview">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+        </PlaceSettings>
+      </entry>
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
